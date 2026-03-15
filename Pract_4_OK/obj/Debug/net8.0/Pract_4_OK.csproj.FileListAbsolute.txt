@@ -1,0 +1,12 @@
+C:\Users\HardShop\Desktop\Projects\Pract_4_OK\Pract_4_OK\bin\Debug\net8.0\Pract_4_OK.deps.json
+C:\Users\HardShop\Desktop\Projects\Pract_4_OK\Pract_4_OK\bin\Debug\net8.0\Pract_4_OK.dll
+C:\Users\HardShop\Desktop\Projects\Pract_4_OK\Pract_4_OK\bin\Debug\net8.0\Pract_4_OK.pdb
+C:\Users\HardShop\Desktop\Projects\Pract_4_OK\Pract_4_OK\obj\Debug\net8.0\Pract_4_OK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HardShop\Desktop\Projects\Pract_4_OK\Pract_4_OK\obj\Debug\net8.0\Pract_4_OK.AssemblyInfoInputs.cache
+C:\Users\HardShop\Desktop\Projects\Pract_4_OK\Pract_4_OK\obj\Debug\net8.0\Pract_4_OK.AssemblyInfo.cs
+C:\Users\HardShop\Desktop\Projects\Pract_4_OK\Pract_4_OK\obj\Debug\net8.0\Pract_4_OK.csproj.CoreCompileInputs.cache
+C:\Users\HardShop\Desktop\Projects\Pract_4_OK\Pract_4_OK\obj\Debug\net8.0\Pract_4_OK.sourcelink.json
+C:\Users\HardShop\Desktop\Projects\Pract_4_OK\Pract_4_OK\obj\Debug\net8.0\Pract_4_OK.dll
+C:\Users\HardShop\Desktop\Projects\Pract_4_OK\Pract_4_OK\obj\Debug\net8.0\refint\Pract_4_OK.dll
+C:\Users\HardShop\Desktop\Projects\Pract_4_OK\Pract_4_OK\obj\Debug\net8.0\Pract_4_OK.pdb
+C:\Users\HardShop\Desktop\Projects\Pract_4_OK\Pract_4_OK\obj\Debug\net8.0\ref\Pract_4_OK.dll
