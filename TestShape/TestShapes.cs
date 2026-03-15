@@ -139,15 +139,15 @@ namespace TestShape
             Assert.Equal(perimTriangle, triangle.Perimeter());
         }
 
-        [Fact]
-        public void NotRightPerimeterCheckTriangle()
-        {
-            double first = 3;
-            double second = 3;
-            double third = 3;
-            double perimTriangle = first + second + third - 1;
-            Triangle triangle = new Triangle(first, second, third);
-            Assert.Equal(perimTriangle, triangle.Perimeter());
-        }
+        //[Fact]
+        //public void NotRightPerimeterCheckTriangle()
+        //{
+        //    double first = 3;
+        //    double second = 3;
+        //    double third = 3;
+        //    double perimTriangle = first + second + third - 1;
+        //    Triangle triangle = new Triangle(first, second, third);
+        //    Assert.Equal(perimTriangle, triangle.Perimeter());
+        //}
     }
 }
